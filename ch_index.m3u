@@ -77,19 +77,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="CINE",Pelis y Popcorn
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 Star Channel
+#EXTINF:-1 tvg-id="Star Channel" tvg-logo="" group-title="Star Channel",Star Channel (1080p)
 http://181.78.22.97:8000/play/a02z/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="" group-title="Cinecanal",Cinecanal (1080p)
 http://181.78.22.97:8000/play/a02u/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="" group-title="Cinemax",Cinemax (1080p)
 http://181.78.22.97:8000/play/a00q/index.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="" group-title="HBO 2",HBO 2 (1080p)
 http://181.78.22.97:8000/play/a02f/index.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="" group-title="HBO Family",HBO Family (1080p)
 http://181.78.22.97:8000/play/a02i/index.m3u8
-#EXTINF:-1 HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="" group-title="HBO Plus",HBO Plus (1080p)
 http://181.78.22.97:8000/play/a02g/index.m3u8
-#EXTINF:-1,HBO XTREME SD
+#EXTINF:-1 tvg-id="HBO XTREME SD" tvg-logo="" group-title="HBO XTREME SD",HBO XTREME SD (1080p)
 http://181.78.22.97:8000/play/a02h/index.m3u8
-#EXTINF:-1,Venus
+#EXTINF:-1 tvg-id="Venus" tvg-logo="" group-title="Venus",Venus (1080p)
 http://181.78.22.97:8000/play/a01z/index.m3u8

@@ -81,13 +81,67 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c1332700073273
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Teen",Teen Adult
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
-http://192.99.148.73:8080/live/play/play/90.ts
-#EXTINF:-1 tvg-id="SexPrive" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
-#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
-http://192.99.148.73:8080/live/play/play/91.ts
-#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
-http://192.99.148.73:8080/live/play/play/92.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ynFru4D.png" group-title="Adulto",Sex Zone
-http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CBeebies Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/1029.m3u8
+#EXTINF:-1,Canal Sony
+http://iptv.oneplay.tv:666/lbhacking/2501.m3u8
+#EXTINF:-1,BBC Entertainment Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/1407.m3u8
+#EXTINF:-1,Unicable
+http://iptv.oneplay.tv:666/lbhacking/3804.m3u8
+#EXTINF:-1,Warner Channel Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/2499.m3u8
+#EXTINF:-1,E! Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/427.m3u8
+#EXTINF:-1,FX Latino
+http://iptv.oneplay.tv:666/lbhacking/431.m3u8
+#EXTINF:-1,Universal Channel America Latina
+http://iptv.oneplay.tv:666/lbhacking/387.m3u8
+#EXTINF:-1,Fox Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/3947.m3u8
+#EXTINF:-1,Syfy Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/447.m3u8
+#EXTINF:-1,A&E Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/258.m3u8
+#EXTINF:-1,Investigation Discovery Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/455.m3u8
+#EXTINF:-1,TLC Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/327.m3u8
+#EXTINF:-1,AXN Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/2493.m3u8
+#EXTINF:-1,HBO Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/385.m3u8
+#EXTINF:-1,HBO 2 Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/365.m3u8
+#EXTINF:-1,HBO Plus Este
+http://iptv.oneplay.tv:666/lbhacking/453.m3u8
+#EXTINF:-1,HBO Plus Oeste
+http://iptv.oneplay.tv:666/lbhacking/369.m3u8
+#EXTINF:-1,HBO Family Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/449.m3u8
+#EXTINF:-1,HBO Signature Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/451.m3u8
+#EXTINF:-1,Max UP Latinoamerica
+http://iptv.oneplay.tv:666/lbhacking/469.m3u8
+#EXTINF:-1,Golden Premier 1
+http://iptv.oneplay.tv:666/lbhacking/4777.m3u8
+#EXTINF:-1,Golden Premier 2
+http://iptv.oneplay.tv:666/lbhacking/4772.m3u8
+#EXTINF:-1,Venus
+http://iptv.oneplay.tv:666/lbhacking/285.m3u8
+#EXTINF:-1,Sextreme
+http://iptv.oneplay.tv:666/lbhacking/287.m3u8
+#EXTINF:-1,Manhandle XXX
+http://iptv.oneplay.tv:666/lbhacking/1027.m3u8
+#EXTINF:-1,Secrets
+http://iptv.oneplay.tv:666/lbhacking/1025.m3u8
+#EXTINF:-1,Playboy TV Latin America
+http://iptv.oneplay.tv:666/lbhacking/289.m3u8
+#EXTINF:-1,Real
+http://iptv.oneplay.tv:666/lbhacking/1021.m3u8
+#EXTINF:-1,Juicy
+http://iptv.oneplay.tv:666/lbhacking/1023.m3u8
+#EXTINF:-1,Hustler TV USA
+http://iptv.oneplay.tv:666/lbhacking/1707.m3u8
+#EXTINF:-1,Xtsy XXX
+http://iptv.oneplay.tv:666/lbhacking/1463.m3u8

@@ -81,4 +81,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c1332700073273
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Teen",Teen Adult
 http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Milf Adult", Milf Adult
+http://cdn.adultiptv.net/milf.m3u8
 

@@ -82,5 +82,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Teen",Teen Adult
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Milf Adult", Milf Adult
-http://cdn.adultiptv.net/milf.m3u8
+http://cdn.adultiptv.net/milf.mu8
+#EXTINF:0 tvg-id="ext" group-title="Venus", Venus Adult
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Babes", Babes Adult
+http://195.154.185.179/xx_babes_tv_hd/index.m3u8
 

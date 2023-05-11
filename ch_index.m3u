@@ -81,10 +81,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c1332700073273
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Teen",Teen Adult
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Milf Adult", Milf Adult
-http://cdn.adultiptv.net/milf.mu8
-#EXTINF:0 tvg-id="ext" group-title="Venus", Venus Adult
-http://195.154.185.179:80/xx_venus_tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Babes", Babes Adult
-http://195.154.185.179/xx_babes_tv_hd/index.m3u8
-
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+http://192.99.148.73:8080/live/play/play/90.ts
+#EXTINF:-1 tvg-id="SexPrive" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
+#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+http://192.99.148.73:8080/live/play/play/91.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+http://192.99.148.73:8080/live/play/play/92.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ynFru4D.png" group-title="Adulto",Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS

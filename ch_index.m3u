@@ -7,6 +7,10 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Latina",Latina (1080p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+#EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=801742443&_cdn_timestamp=1684128717&_cdn_token=c14339cdd9fd0798cecad3a867b529c09311416e
+#EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=801741475&_cdn_timestamp=1684128676&_cdn_token=6544c33d59a80cdfcc80f0b46ebe6bd359b46f36
 #EXTINF:0 tvg-id="ext" group-title="CINE",*Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="CINE",*Cine COMEDIA

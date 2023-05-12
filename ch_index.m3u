@@ -90,17 +90,25 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,Claro Cinema
 http://181.78.27.188:5350/play/a00d
-#EXTINF:-1,AXN CARD00
-http://181.78.27.188:5350/play/a091
-#EXTINF:-1,AXN CARD01
-http://181.78.27.188:5350/play/a0v4
 #EXTINF:-1,Cartoon Network
 http://181.78.20.47:9000/play/a00m
-#EXTINF:-1,Super Toons
-http://77.85.200.11:4000/play/a03s
-#EXTINF:-1,Venus
+#EXTINF:-1,Disney HD
+http://190.211.175.161:50000/play/a025/index.m3u8
+#EXTINF:-1,CINE PREMIUM HD
+http://190.2.214.219:4000/play/1119/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.142.231.42:8874/play/a0br
+#EXTINF:-1,De Película
+http://190.211.175.161:50000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Hot", Playboy HD 1
+http://190.211.175.161:50000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Hot",PlayBoy HD 2
+http://190.142.231.42:8874/play/a0bj
+#EXTINF:-1 group-title="Hot", Playboy 1
+http://190.122.186.88:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="Hot",Venus
 http://181.78.27.188:5350/play/a00z
-#EXTINF:-1, Playboy
+#EXTINF:-1 group-title="Hot", Playboy 2
 http://91.202.78.163:48070/udp/239.72.4.10:1234
 #EXTINF:-1,Cinecanal
 http://181.78.20.47:9000/play/a00f

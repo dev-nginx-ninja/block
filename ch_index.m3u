@@ -88,6 +88,120 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+http://138.185.15.250:8000/play/a07o/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://138.185.15.250:8000/play/a06q/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://138.185.15.250:8000/play/a07g/index.m3u8
+#EXTINF:-1,Nick HD
+http://138.185.15.250:8000/play/a06y/index.m3u8
+#EXTINF:-1,Panamericana HD-H
+http://138.185.15.250:8000/play/a06u/index.m3u8
+#EXTINF:-1,Paramount HD
+http://138.185.15.250:8000/play/a07m/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://138.185.15.250:8000/play/a07r/index.m3u8
+#EXTINF:-1,RCN HD
+http://138.185.15.250:8000/play/a0bk/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://138.185.15.250:8000/play/a06r/index.m3u8
+#EXTINF:-1,Seæal Colombia HD
+http://138.185.15.250:8000/play/a0br/index.m3u8
+#EXTINF:-1,Sony HD
+http://138.185.15.250:8000/play/a06l/index.m3u8
+#EXTINF:-1,Space HD
+http://138.185.15.250:8000/play/a06o/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://138.185.15.250:8000/play/a07n/index.m3u8
+#EXTINF:-1,Sun Channel HD
+http://138.185.15.250:8000/play/a0c9/index.m3u8
+#EXTINF:-1,TNT HD
+http://138.185.15.250:8000/play/a07t/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://138.185.15.250:8000/play/a06p/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://138.185.15.250:8000/play/a077/index.m3u8
+#EXTINF:-1,TV+ HD
+http://138.185.15.250:8000/play/a0bm/index.m3u8
+#EXTINF:-1,Telehit HD
+http://138.185.15.250:8000/play/a0bs/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://138.185.15.250:8000/play/a07w/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://138.185.15.250:8000/play/a076/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://138.185.15.250:8000/play/a06m/index.m3u8
+#EXTINF:-1,Canal N HD-H
+http://138.185.15.250:8000/play/a06v/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://138.185.15.250:8000/play/a07l/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://138.185.15.250:8000/play/a07i/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://138.185.15.250:8000/play/a07v/index.m3u8
+#EXTINF:-1,Clover HD
+http://138.185.15.250:8000/play/a0bx/index.m3u8
+#EXTINF:-1,AXN HD
+http://186.101.207.117:9955/play/a0bv/index.m3u8
+#EXTINF:-1,CARTOON NT HD
+http://186.101.207.117:9955/play/a0bd/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://186.101.207.117:9955/play/a0b9/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://186.101.207.117:9955/play/a0b8/index.m3u8
+#EXTINF:-1,Golf Channel HD
+http://186.101.207.117:9955/play/a0cs/index.m3u8
+#EXTINF:-1,HBO HD
+http://186.101.207.117:9955/play/a0be/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://186.101.207.117:9955/play/a0bg/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://186.101.207.117:9955/play/a0bf/index.m3u8
+#EXTINF:-1,Home & Health HD
+http://186.101.207.117:9955/play/a0cz/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://186.101.207.117:9955/play/a0bl/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://186.101.207.117:9955/play/a0bq/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://186.101.207.117:9955/play/a0co/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://186.101.207.117:9955/play/a0cf/index.m3u8
+#EXTINF:-1,TD+2 HD CR
+http://186.101.207.117:9955/play/a0b4/index.m3u8
+#EXTINF:-1,TD+HD CR
+http://186.101.207.117:9955/play/a0b3/index.m3u8
+#EXTINF:-1,TNT HD
+http://186.101.207.117:9955/play/a0cx/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://186.101.207.117:9955/play/a0c5/index.m3u8
+#EXTINF:-1,Teen Nick HD
+http://186.101.207.117:9955/play/a0ce/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://186.101.207.117:9955/play/a0cl/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://186.101.207.117:9955/play/a0cu/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://186.101.207.117:9955/play/a0cb/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://186.101.207.117:9955/play/a0d8/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://186.101.207.117:9955/play/a0d7/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://186.101.207.117:9955/play/a0d4/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://186.101.207.117:9955/play/a0d5/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://186.101.207.117:9955/play/a0d6/index.m3u8
+#EXTINF:-1,Univision HD
+http://186.101.207.117:9955/play/a0c9/index.m3u8
+#EXTINF:-1,WARNER HD
+http://186.101.207.117:9955/play/a0br/index.m3u8
+#EXTINF:-1, Playboy HD
+http://204.199.132.195:50000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="hustler.pl",Hustler HD POL
+http://37.48.101.149:5011/play/a02g/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://181.78.20.47:9000/play/a00m
 #EXTINF:-1,Cinecanal

@@ -88,18 +88,20 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1,Claro Cinema
+http://181.78.27.188:5350/play/a00d
+#EXTINF:-1,AXN CARD00
+http://181.78.27.188:5350/play/a091
+#EXTINF:-1,AXN CARD01
+http://181.78.27.188:5350/play/a0v4
 #EXTINF:-1,Cartoon Network
 http://181.78.20.47:9000/play/a00m
 #EXTINF:-1,Super Toons
 http://77.85.200.11:4000/play/a03s
 #EXTINF:-1,Venus
 http://181.78.27.188:5350/play/a00z
-#EXTINF:-1, Playboy HD
-http://190.211.175.161:50000/play/a002/index.m3u8
-#EXTINF:-1,Blue Hustler
-http://149.62.177.118:8020/play/a07m
-#EXTINF:-1,Hustler HD
-http://149.62.177.118:8020/play/a07l
+#EXTINF:-1, Playboy
+http://91.202.78.163:48070/udp/239.72.4.10:1234
 #EXTINF:-1,Cinecanal
 http://181.78.20.47:9000/play/a00f
 #EXTINF:-1,Cinemax

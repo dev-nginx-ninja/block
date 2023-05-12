@@ -88,46 +88,18 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1,HBO 2 HD
-http://138.185.15.250:8000/play/a07o/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://138.185.15.250:8000/play/a06q/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://138.185.15.250:8000/play/a07g/index.m3u8
-#EXTINF:-1,Nick HD
-http://138.185.15.250:8000/play/a06y/index.m3u8
-#EXTINF:-1,Panamericana HD-H
-http://138.185.15.250:8000/play/a06u/index.m3u8
-#EXTINF:-1,Paramount HD
-http://138.185.15.250:8000/play/a07m/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://138.185.15.250:8000/play/a07r/index.m3u8
-#EXTINF:-1,RCN HD
-http://138.185.15.250:8000/play/a0bk/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://138.185.15.250:8000/play/a06r/index.m3u8
-#EXTINF:-1,Seæal Colombia HD
-http://138.185.15.250:8000/play/a0br/index.m3u8
-#EXTINF:-1,Sony HD
-http://138.185.15.250:8000/play/a06l/index.m3u8
-#EXTINF:-1,Space HD
-http://138.185.15.250:8000/play/a06o/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://138.185.15.250:8000/play/a07n/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://138.185.15.250:8000/play/a0c9/index.m3u8
-#EXTINF:-1,TNT HD
-http://138.185.15.250:8000/play/a07t/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
-http://138.185.15.250:8000/play/a06p/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://138.185.15.250:8000/play/a077/index.m3u8
-#EXTINF:-1,TV+ HD
-http://138.185.15.250:8000/play/a0bm/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://181.78.20.47:9000/play/a00m
+#EXTINF:-1,Super Toons
+http://77.85.200.11:4000/play/a03s
 #EXTINF:-1,Venus
 http://181.78.27.188:5350/play/a00z
+#EXTINF:-1, Playboy HD
+http://190.211.175.161:50000/play/a002/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://149.62.177.118:8020/play/a07m
+#EXTINF:-1,Hustler HD
+http://149.62.177.118:8020/play/a07l
 #EXTINF:-1,Cinecanal
 http://181.78.20.47:9000/play/a00f
 #EXTINF:-1,Cinemax
@@ -174,15 +146,3 @@ http://181.78.20.47:9000/play/a060
 http://181.78.20.47:9000/play/a018
 #EXTINF:-1,Warner Channel HD
 http://181.78.20.47:9000/play/a05j
-#EXTINF:-1,AFV Family En Español (Comedy)
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1,Los Simpsons 24/7
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1,Gabachas
-http://zaza1.ddns.net:8080/get.php?username=650310701&password=ertt35&type=m3u_plus&output=m3u8
-#EXTINF:-2023, SERIE SEINFELD RUMANIA SUB [AUDIO INGLÉS]🇺🇸
-https://m3u.ch/00rapWQ.m3u
-#EXTINF:-2023, Sabrina, The Teenage Witch
-https://m3u.ch/ddfBiUp.m3u
-#EXTINF:-2023, Silentrix
-http://un-pluggedtv.net:8080/get.php?username=silenttrix&password=bSeG3nn9k2&type=m3u

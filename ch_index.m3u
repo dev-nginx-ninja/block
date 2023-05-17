@@ -13,7 +13,6 @@ http://190.61.55.186:1010/play/a01d/index.m3u8
 http://190.61.55.186:1010/play/a02l/index.m3u8
 #EXTINF:0 group-title="Canales Nacionales & Noticias",CNN International
 http://190.61.55.186:1010/play/a02m/index.m3u8
-
 #EXTINF:0 group-title="Canales Premium", Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
 #EXTINF:0 group-title="Canales Premium",Nat Geo HD
@@ -228,6 +227,7 @@ http://37.48.101.149:5011/play/a02g/index.m3u8
 http://37.48.101.149:5011/play/a02d/index.m3u8
 #EXTINF:-1 group-title= "Canales Privados",Private HD POL
 http://37.48.101.149:5011/play/a02h/index.m3u8
+
 #EXTINF:-1 group-title= "Canales Privados",Private TV
 http://82.77.236.35:9779/play/a07a
 #EXTINF:-1 group-title= "Canales Privados",Bang Bros HD

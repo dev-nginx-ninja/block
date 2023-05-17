@@ -3,9 +3,9 @@
 http://190.61.55.186:1010/play/a02j/index.m3u8
 #EXTINF:0 group-title="Canales Nacionales & Noticias",AtvHd (1080p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:0 group-title="Canales Nacionales",Latina (1080p)
+#EXTINF:0 group-title="Canales Nacionales & Noticias",,Latina (1080p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
-#EXTINF:0 group-title="Canales Nacionales", AMERICA TELEVISION PE
+#EXTINF:0 group-title="Canales Nacionales & Noticias",, AMERICA TELEVISION PE
 http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:0 group-title="Canales Nacionales & Noticias",CNN Chile HD
 http://190.61.55.186:1010/play/a01d/index.m3u8

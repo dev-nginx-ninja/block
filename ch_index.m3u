@@ -219,15 +219,16 @@ http://190.61.55.186:1010/play/a01x/index.m3u8
 http://190.61.55.186:1010/play/a006/index.m3u8
 #EXTINF:0 group-title="Canales Deporte",ESPN HD
 http://190.61.55.186:1010/play/a01q/index.m3u8
+
+
+#EXTINF:-1 group-title= "Canales Privados",Private HD POL
+http://37.48.101.149:5011/play/a02h/index.m3u8
 #EXTINF:-1 group-title= "Canales Privados", Playboy HD 1
 http://190.211.175.161:50000/play/a002/index.m3u8
 #EXTINF:-1 group-title= "Canales Privados",Hustler
 http://37.48.101.149:5011/play/a02g/index.m3u8
 #EXTINF:-1 group-title= "Canales Privados",Brazzers HD
 http://37.48.101.149:5011/play/a02d/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Private HD POL
-http://37.48.101.149:5011/play/a02h/index.m3u8
-
 #EXTINF:-1 group-title= "Canales Privados",Private TV
 http://82.77.236.35:9779/play/a07a
 #EXTINF:-1 group-title= "Canales Privados",Bang Bros HD

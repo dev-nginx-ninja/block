@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 group-title="Canales Nacionales & Noticias",Baby TV
+#EXTINF:0 group-title="Canales Premium",Baby TV
 http://190.61.55.186:1010/play/a02j/index.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",AtvHd (1080p)
+#EXTINF:0 group-title="Canales Premium",AtvHd (1080p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",,Latina (1080p)
+#EXTINF:0 group-title="Canales Premium",,Latina (1080p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",, AMERICA TELEVISION PE
+#EXTINF:0 group-title="Canales Premium",, AMERICA TELEVISION PE
 http://190.61.55.186:1010/play/a00y/index.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",CNN Chile HD
+#EXTINF:0 group-title="Canales Premium",CNN Chile HD
 http://190.61.55.186:1010/play/a01d/index.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",CNN Espaæol
+#EXTINF:0 group-title="Canales Premium",CNN Espaæol
 http://190.61.55.186:1010/play/a02l/index.m3u8
-#EXTINF:0 group-title="Canales Nacionales & Noticias",CNN International
+#EXTINF:0 group-title="Canales Premium",CNN International
 http://190.61.55.186:1010/play/a02m/index.m3u8
 #EXTINF:0 group-title="Canales Premium", Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
@@ -262,5 +262,4 @@ http://190.61.55.186:1010/play/a01x/index.m3u8
 http://190.61.55.186:1010/play/a006/index.m3u8
 #EXTINF:0 group-title="Canales Deporte",ESPN HD
 http://190.61.55.186:1010/play/a01q/index.m3u8
-
 

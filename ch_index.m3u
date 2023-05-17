@@ -63,7 +63,7 @@ http://190.61.55.186:1010/play/a01h/index.m3u8
 http://181.78.20.47:9000/play/a05j
 #EXTINF:0 group-title="Canales Premium",GOLDEN HD
 http://181.78.20.47:9000/play/a07l
-#EXTINF:0 group-title="Canales Premium", GOLDEN MULTIPLEX -1HR 
+#EXTINF:0 group-title="Canales Premium", GOLDEN MULTIPLEX HD 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:0 group-title="Canales Premium", GOLDEN PLUS
@@ -221,47 +221,47 @@ http://190.61.55.186:1010/play/a006/index.m3u8
 http://190.61.55.186:1010/play/a01q/index.m3u8
 
 
-#EXTINF:-1 group-title= "Canales Privados",Private HD POL
+#EXTINF:0 group-title= "Canales Privados",Private HD POL
 http://37.48.101.149:5011/play/a02h/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados", Playboy HD 1
+#EXTINF:0 group-title= "Canales Privados", Playboy HD 1
 http://190.211.175.161:50000/play/a002/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Hustler
+#EXTINF:0 group-title= "Canales Privados",Hustler
 http://37.48.101.149:5011/play/a02g/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Brazzers HD
+#EXTINF:0 group-title= "Canales Privados",Brazzers HD
 http://37.48.101.149:5011/play/a02d/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Private TV
+#EXTINF:0 group-title= "Canales Privados",Private TV
 http://82.77.236.35:9779/play/a07a
-#EXTINF:-1 group-title= "Canales Privados",Bang Bros HD
+#EXTINF:0 group-title= "Canales Privados",Bang Bros HD
 http://168.228.194.32:58001/play/a0cg/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Brazzers HD
+#EXTINF:0 group-title= "Canales Privados",Brazzers HD
 http://168.228.194.32:58001/play/a0ci/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Hustler HD
+#EXTINF:0 group-title= "Canales Privados",Hustler HD
 http://168.228.194.32:58001/play/a0ch/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Mofos HD
+#EXTINF:0 group-title= "Canales Privados",Mofos HD
 http://168.228.194.32:58001/play/a0cf/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",PentHouse HD
+#EXTINF:0 group-title= "Canales Privados",PentHouse HD
 http://168.228.194.32:58001/play/a0ce/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Playboy 3
+#EXTINF:0 group-title= "Canales Privados",Playboy 3
 http://168.228.194.32:58001/play/a04i/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",VENUS 2
+#EXTINF:0 group-title= "Canales Privados",VENUS 2
 http://168.228.194.32:58001/play/a079/index.m3u8ad
-#EXTINF:-1 group-title= "Canales Privados",Brazzers HD
+#EXTINF:0 group-title= "Canales Privados",Brazzers HD
 http://80.82.21.146:4000/play/a01z/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados", Playboy HD 1
+#EXTINF:0 group-title= "Canales Privados", Playboy HD 1
 http://190.211.175.161:50000/play/a002/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",PlayBoy HD 2
+#EXTINF:0 group-title= "Canales Privados",PlayBoy HD 2
 http://190.142.231.42:8874/play/a0bj
-#EXTINF:-1 group-title= "Canales Privados", Playboy 1
+#EXTINF:0 group-title= "Canales Privados", Playboy 1
 http://190.122.186.88:8000/play/a0ed/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Venus 1
+#EXTINF:0 group-title= "Canales Privados",Venus 1
 http://181.78.27.188:5350/play/a00z
-#EXTINF:-1 group-title= "Canales Privados", Playboy 2
+#EXTINF:0 group-title= "Canales Privados", Playboy 2
 http://91.202.78.163:48070/udp/239.72.4.10:1234
-#EXTINF:-1 group-title= "Canales Privados",Private HD
+#EXTINF:0 group-title= "Canales Privados",Private HD
 http://80.82.21.146:4000/play/a01y/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Puls 2 HD
+#EXTINF:0 group-title= "Canales Privados",Puls 2 HD
 http://80.82.21.146:4000/play/a012/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Red Carpet TV
+#EXTINF:0 group-title= "Canales Privados",Red Carpet TV
 http://80.82.21.146:4000/play/a030/index.m3u8
-#EXTINF:-1 group-title= "Canales Privados",Redlight HD
+#EXTINF:0 group-title= "Canales Privados",Redlight HD
 http://80.82.21.146:4000/play/a04h/index.m3u8

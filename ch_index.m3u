@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="Canales Premium",Canal de las Estrellas (1080p)
+http://204.157.255.28:20001/play/a03e/index.m3u8
 #EXTINF:0 group-title="Canales Premium",AtvHd (1080p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:0 group-title="Canales Premium",,Latina (1080p)

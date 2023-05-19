@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 group-id="Canal de las Estrellas (1080p)" group-title="Nacional",Canal de las Estrellas (1080p)
+http://204.157.255.28:20001/play/a03e/index.m3u8
+#EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd (1080p)
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+#EXTINF:-1 group-id="Latina (1080p)" group-title="Nacional",Latina (1080p)
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+#EXTINF:-1 group-id="AMERICA TELEVISION PE" group-title="Nacional",AMERICA TELEVISION PE
+http://190.61.55.186:1010/play/a00y/index.m3u8
+#EXTINF:-1 group-id="Panamericana TV" group-title="Nacional",Panamericana TV
+http://204.157.255.27:20001/play/a03r/index.m3u8
+#EXTINF:-1 group-id="CNN Chile HD" group-title="Nacional",CNN Chile HD
+http://190.61.55.186:1010/play/a01d/index.m3u8
+#EXTINF:-1 group-id="CNN Espaæol" group-title="Nacional",CNN Espaæol
+http://190.61.55.186:1010/play/a02l/index.m3u8
+#EXTINF:-1 group-id="CNN International" group-title="Nacional",CNN International
+http://190.61.55.186:1010/play/a02m/index.m3u8
+
+
+#EXTINF:-1 group-id="Animal Planet HD" group-title="Premium", Animal Planet HD
+http://190.61.55.186:1010/play/a00o/index.m3u8
+#EXTINF:-1 group-id="Nat Geo HD" group-title="Premium",Nat Geo HD
+http://190.61.55.186:1010/play/a00d/index.m3u8
+#EXTINF:-1 group-id="Nick HD" group-title="Premium",Nick HD
+http://190.61.55.186:1010/play/a01p/index.m3u8
+#EXTINF:-1 group-id="Paramount HD" group-title="Premium",Paramount HD
+http://190.61.55.186:1010/play/a00k/index.m3u8
+#EXTINF:-1 group-id="Paramount Channel ES *ID=36*" group-title="Premium", Paramount Channel ES *ID=36*
+http://45.141.194.9:9000/play/a004/index.m3u8
+#EXTINF:-1 group-id="Pasiones HD" group-title="Premium",Pasiones HD
+http://190.61.55.186:1010/play/a01t/index.m3u8
+#EXTINF:-1 group-id="STAR CHANNEL HD" group-title="Premium",STAR CHANNEL HD
+http://190.61.55.186:1010/play/a004/index.m3u8
+#EXTINF:-1 group-id="STAR CHANNEL HD" group-title="Premium",STAR CHANNEL HD
+http://181.78.20.47:9000/play/a00k
+#EXTINF:-1 group-id="Señal Colombia HD" group-title="Premium",Señal Colombia HD
+http://190.61.55.186:1010/play/a00r/index.m3u8
+#EXTINF:-1 group-id="Sony HD" group-title="Premium",Sony HD
+http://190.61.55.186:1010/play/a01g/index.m3u8
+#EXTINF:-1 group-id="Sony HD" group-title="Premium",Sony HD
+http://181.78.20.47:9000/play/a05i
+#EXTINF:-1 group-id="Space HD" group-title="Premium",Space HD
+http://190.61.55.186:1010/play/a01j/index.m3u8
+#EXTINF:-1 group-id="Space HD" group-title="Premium",Space HD
+http://181.78.20.47:9000/play/a05l
+#EXTINF:-1 group-id="Studio Universal HD" group-title="Premium",Studio Universal HD
+http://190.61.55.186:1010/play/a00l/index.m3u8
+#EXTINF:-1 group-id="TNT HD" group-title="Premium",TNT HD
+http://190.61.55.186:1010/play/a01w/index.m3u8
+#EXTINF:-1 group-id="TNT HD" group-title="Premium",TNT HD
+http://181.78.20.47:9000/play/a060
+#EXTINF:-1 group-id="TNT SPORTS HD" group-title="Premium",TNT SPORTS HD
+http://190.61.55.186:1010/play/a01k/index.m3u8
+#EXTINF:-1 group-id="TNT Series HD" group-title="Premium",TNT Series HD
+http://190.61.55.186:1010/play/a008/index.m3u8
+#EXTINF:-1 group-id="FOX HD ES" group-title="Premium", FOX HD ES
+http://45.141.194.9:9000/play/a00t/index.m3u8
+#EXTINF:-1 group-id="TRUTV HD" group-title="Premium",TRUTV HD
+http://190.61.55.186:1010/play/a024/index.m3u8
+#EXTINF:-1 group-id="TVN HD" group-title="Premium",TVN HD
+http://190.61.55.186:1010/play/a01s/index.m3u8
+#EXTINF:-1 group-id="Teen Nick HD" group-title="Premium",Teen Nick HD
+http://190.61.55.186:1010/play/a012/index.m3u8
+#EXTINF:-1 group-id="UNIVERSAL CHANNEL HD" group-title="Premium",UNIVERSAL CHANNEL HD
+http://190.61.55.186:1010/play/a005/index.m3u8
+#EXTINF:-1 group-id="VENEVISION IP" group-title="Premium",VENEVISION IP
+http://190.61.55.186:1010/play/745/index.m3u8
+#EXTINF:-1 group-id="Warner Channel H" group-title="Premium",Warner Channel HD
+http://190.61.55.186:1010/play/a01h/index.m3u8
+#EXTINF:-1 group-id="Warner Channel H" group-title="Premium",Warner Channel HD
+http://181.78.20.47:9000/play/a05j
+#EXTINF:-1 group-id="GOLDEN H" group-title="Premium",GOLDEN HD
+http://181.78.20.47:9000/play/a07l
+#EXTINF:-1 group-id=" GOLDEN MULTIPLEX HD" group-title="Premium", GOLDEN MULTIPLEX HD 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-id=" GOLDEN PLUS" group-title="Premium", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-id=" GOLDEN PREMIER" group-title="Premium", GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Premium",Disney HD
+http://190.211.175.161:50000/play/a025/index.m3u8
+#EXTINF:-1 group-id="CINE PREMIUM HD" group-title="Premium",CINE PREMIUM HD
+http://190.2.214.219:4000/play/1119/index.m3u8
+#EXTINF:-1 group-id="AMC HD" group-title="Premium",AMC HD
+http://190.142.231.42:8874/play/a0br
+#EXTINF:-1 group-id="De Película" group-title="Premium",De Película
+http://190.211.175.161:50000/play/a022/index.m3u8
+#EXTINF:-1 group-id="Cinemax HD" group-title="Premium",Cinemax HD
+http://181.78.20.47:9000/play/a067
+#EXTINF:-1 group-id="FX HD" group-title="Premium",FX HD
+http://190.61.55.186:1010/play/a009/index.m3u8
+#EXTINF:-1 group-id="HBO" group-title="Premium",HBO
+http://181.78.20.47:9000/play/a01m
+#EXTINF:-1 group-id="HBO 2" group-title="Premium",HBO 2
+http://181.78.20.47:9000/play/a00v
+#EXTINF:-1 group-id="HBO Family" group-title="Premium",HBO Family
+http://181.78.20.47:9000/play/a00y
+#EXTINF:-1 group-id="HBO POP HD" group-title="Premium",HBO POP HD
+http://181.78.20.47:9000/play/a05o
+#EXTINF:-1 group-id="HBO Plus" group-title="Premium",HBO Plus
+http://181.78.20.47:9000/play/a00w
+#EXTINF:-1 group-id="HBO XTREME SD" group-title="Premium",HBO XTREME SD
+http://181.78.20.47:9000/play/a00x
+#EXTINF:-1 group-id="Studio Universal" group-title="Premium",Studio Universal
+http://181.78.20.47:9000/play/a010
+#EXTINF:-1 group-id="Cinecanal HD" group-title="Premium",Cinecanal HD
+http://45.170.225.210:58001/play/a01t/index.m3u8
+#EXTINF:-1 group-id="AMC HD ES" group-title="Premium",AMC HD ES
+http://45.141.194.9:9000/play/a01y/index.m3u8
+#EXTINF:-1 group-id="AXN HD ES" group-title="Premium",AXN HD ES
+http://45.141.194.9:9000/play/a008/index.m3u8
+#EXTINF:-1 group-id="AXN White HD ES" group-title="Premium",AXN White HD ES
+http://45.141.194.9:9000/play/a01k/index.m3u8
+#EXTINF:-1 group-id="Antena 3 HD ES" group-title="Premium",Antena 3 HD ES
+http://45.141.194.9:9000/play/a006/index.m3u8
+#EXTINF:-1 group-id="Cinecanal" group-title="Premium",Cinecanal
+http://181.78.20.47:9000/play/a00f
+#EXTINF:-1 group-id="Cartoon Network" group-title="Premium",Cartoon Network
+http://181.78.20.47:9000/play/a00m
+#EXTINF:-1 group-id="Claro Cinema" group-title="Premium",Claro Cinema
+http://181.78.27.188:5350/play/a00d
+#EXTINF:-1 group-id="Cinemax" group-title="Premium",Cinemax
+http://181.78.20.47:9000/play/a01n
+#EXTINF:-1 group-id="FX" group-title="Premium",FX
+http://181.78.20.47:9000/play/a01q
+#EXTINF:-1 group-id="Space" group-title="Premium",Space
+http://181.78.20.47:9000/play/a01p
+#EXTINF:-1 group-id="SyFy" group-title="Premium",SyFy
+http://181.78.20.47:9000/play/a00r
+#EXTINF:-1 group-id="TBS" group-title="Premium",TBS
+http://181.78.20.47:9000/play/a07d
+#EXTINF:-1 group-id="TCM" group-title="Premium",TCM
+http://181.78.20.47:9000/play/a00l
+#EXTINF:-1 group-id="TNT" group-title="Premium",TNT
+http://181.78.20.47:9000/play/a00n
+#EXTINF:-1 group-id="Warner" group-title="Premium",Warner
+http://181.78.20.47:9000/play/a018
+#EXTINF:-1 group-id="XTRM HD ES" group-title="Premium",XTRM HD ES
+http://45.141.194.9:9000/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Deporte",Movistar Deportes HD
+http://45.189.117.32:7075/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLPERU
+http://190.61.55.186:1010/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Deporte",DIRECT TV SPORT
+http://138.185.15.250:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLPERU HD
+http://190.61.55.186:1010/play/a010/index.m3u8
+#EXTINF:-1 group-title="Deporte",GolTV HD
+http://190.61.55.186:1010/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Deporte",Win Sports HD
+http://190.61.55.186:1010/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Deporte",Win Sports+ HD
+http://190.61.55.186:1010/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Deporte",Fox Sports 1 HD
+http://190.61.55.186:1010/play/a019/index.m3u8
+#EXTINF:-1 group-title="Deporte",Fox Sports 3 HD
+http://190.61.55.186:1010/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Deporte",FOX Sports 2 HD
+http://190.61.55.186:1010/play/a007/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 2 HD
+http://190.61.55.186:1010/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 3 HD
+http://190.61.55.186:1010/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 4 HD
+http://190.61.55.186:1010/play/a006/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN HD
+http://190.61.55.186:1010/play/a01q/index.m3u8
+
+
+#EXTINF:-1 group-title="PlutoTv",*Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Familia?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Romance?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",* Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Estrellas de Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Filmstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Paramount+ Presenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Estelar 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Acción 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine COMEDIA 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Thrillers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Drama 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Romántico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="CineLatino.mx" group-title="PlutoTv",Cine Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Indies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",BBC Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",*Cine Clásico 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Rakuten Viki
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" group-title="PlutoTv",Cine Premiere
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Séptimo arte
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Cine adrenalina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Cine terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Nuestra Visión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Cine ¡¡jaja!!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Cine XOXO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PlutoTv",Pelis y Popcorn
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus

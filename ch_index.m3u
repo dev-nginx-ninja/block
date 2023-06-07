@@ -262,6 +262,49 @@ http://181.78.20.47:9000/play/a00j
 http://181.78.20.47:9000/play/a071
 
 
+#EXTINF:-1 group-title="Canales 206.1",Animal Planet HD | 61
+http://206.1.95.8:8003/play/animalplanet/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Canal Brasil HD | 62
+http://206.1.95.8:8003/play/canalbrasil/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Cartoon Network HD | 63
+http://206.1.95.8:8003/play/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Combate HD | 64
+http://206.1.95.8:8003/play/combate/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Discovery Theater HD | 65
+http://206.1.95.8:8003/play/discoverytheater/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Discovery World HD | 66
+http://206.1.95.8:8003/play/discoveryworld/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",ID HD | 69
+http://206.1.95.8:8003/play/id/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",MTV LIVE HD | 71
+http://206.1.95.8:8003/play/mtvlive/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Nickelodeon HD | 72
+http://206.1.95.8:8003/play/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Sabor & Arte HD
+http://206.1.95.8:8003/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Space HD | 78
+http://206.1.95.8:8003/play/space/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",SporTV3 HD | 79
+http://206.1.95.8:8003/play/sportv3/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",TBS HD | 80
+http://206.1.95.8:8003/play/tbs/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",TNT HD | 81
+http://206.1.95.8:8003/play/tnt/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",TNT SØries HD | 82
+http://206.1.95.8:8003/play/tntseries/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",TV Novo Tempo HD
+http://206.1.95.8:8003/play/novotempo/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Travel Box Brazil HD | 83
+http://206.1.95.8:8003/play/travelboxbrazil/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1",Viva HD | 85
+http://206.1.95.8:8003/play/viva/index.m3u8
+
+#EXTINF:-1 group-title="Canales 206.1 - Hot",Playboy HD | 73
+http://206.1.95.8:8003/play/playboy/index.m3u8
+#EXTINF:-1 group-title="Canales 206.1 - Hot",Sexy Hot HD
+http://206.1.95.8:8003/play/sexhot/index.m3u8
+
+
 #EXTINF:-1 group-id="Animal Planet HD" group-title="Premium", Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
 #EXTINF:-1 group-id="Nat Geo HD" group-title="Premium",Nat Geo HD

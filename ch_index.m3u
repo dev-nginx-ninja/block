@@ -629,6 +629,57 @@ http://45.190.13.50:8003/play/a025/index.m3u8
 http://45.190.13.50:8003/play/a02b/index.m3u8
 
 
+#EXTINF:-1 group-title="Canales 176.65"Venus
+http://176.65.146.108:8000/play/a03r
+#EXTINF:-1 group-title="Canales 176.65"HOT
+http://176.65.146.108:8000/play/a049
+
+#EXTINF:-1 group-title="Canales 37.48"AXN HD
+http://37.48.101.149:7017/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="babytv.pl",Baby TV
+http://37.48.101.149:7017/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="brazzers.pl",Brazzers HD
+http://37.48.101.149:7017/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="cipolsat.pl",CI Polsat HD
+http://37.48.101.149:7017/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="cinemax2.pl",Cinemax 2 HD
+http://37.48.101.149:7017/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="fox.pl",FOX HD
+http://37.48.101.149:7017/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.pl",Fox Comedy HD
+http://37.48.101.149:7017/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="history.pl",History HD
+http://37.48.101.149:7017/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="hustler.pl",Hustler HD POL
+http://37.48.101.149:7017/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="polsatcafe.pl",Polsat Cafe HD
+http://37.48.101.149:7017/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="polsatdoku.pl",Polsat Doku HD
+http://37.48.101.149:7017/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="polsatfilm.pl",Polsat Film HD
+http://37.48.101.149:7017/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="polsatnews2.pl",Polsat News 2
+http://37.48.101.149:7017/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="polsatnews.pl",Polsat News HD
+http://37.48.101.149:7017/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="polsatplay.pl",Polsat Play HD
+http://37.48.101.149:7017/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="polsatsportextra.pl",Polsat Sport Extra HD
+http://37.48.101.149:7017/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="polsatsport.pl",Polsat Sport HD
+http://37.48.101.149:7017/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Canales 37.48"Polsat Sport Premium PPV5
+http://37.48.101.149:7017/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Canales 37.48"Polsat Sport Premium PPV6
+http://37.48.101.149:7017/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="viasathistory.pl",Polsat Viasat History HD
+http://37.48.101.149:7017/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="private.pl",Private HD POL
+http://37.48.101.149:7017/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="tv6.pl",TV6
+http://37.48.101.149:7017/play/a01h/index.m3u8
+
+
 #EXTINF:-1 group-id="Animal Planet HD" group-title="Premium", Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
 #EXTINF:-1 group-id="Nat Geo HD" group-title="Premium",Nat Geo HD

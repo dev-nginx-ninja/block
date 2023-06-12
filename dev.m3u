@@ -2,7 +2,7 @@
 #EXTINF:-1 group-id="Latina (1080p)" group-title="Nacional",Latina (1080p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 #EXTINF:-1,America TV HD
-https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=SfpV5hoqKz1DwyDqiBzjVzQ5QKRwXh6a&sid=Tw0UxWB7qULJ2aCgNWiwF34aasTlGrmc&pid=ZDf9KijF1EPGUgR4cAxOFVRDAf67qGN9&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=lAxCUzobgpIhPvfpdfGHD6QBdX6Uuxmk1xzjhB7ZvplEtnUUNuQpmv2jBcWRZxZHgjGPw6O7wsX&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1686618225498&ot=9W2bcUE1LabzVGJrA21eXA&proto=https&pz=us
+http://191.97.58.41:8001/play/a005
 #EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd (1080p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 group-id="Panamericana TV" group-title="Nacional",Panamericana TV

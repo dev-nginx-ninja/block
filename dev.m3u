@@ -3,16 +3,10 @@
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 #EXTINF:-1,America TV 191.
 http://191.97.58.41:8001/play/a005
-#EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd (1080p)
+#EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 group-id="Panamericana TV" group-title="Nacional",Panamericana TV
 http://204.157.255.27:20001/play/a03r/index.m3u8
-#EXTINF:-1 group-id="CNN Chile HD" group-title="Nacional",CNN Chile HD
-http://190.61.55.186:1010/play/a01d/index.m3u8
-#EXTINF:-1 group-id="CNN Espaæol" group-title="Nacional",CNN Espaæol
-http://190.61.55.186:1010/play/a02l/index.m3u8
-#EXTINF:-1 group-id="CNN International" group-title="Nacional",CNN International
-http://190.61.55.186:1010/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Canales 181.78",A&E HD
 http://181.78.20.47:9000/play/a06j
 #EXTINF:-1 group-title="Canales 181.78",ATRES SERIES HD

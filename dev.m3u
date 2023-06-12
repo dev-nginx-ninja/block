@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-id="Canal de las Estrellas (1080p)" group-title="Nacional",Canal de las Estrellas (1080p)
-http://204.157.255.28:20001/play/a03e/index.m3u8
+#EXTINF:-1 group-id="Latina (1080p)" group-title="Nacional",Latina (1080p)
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:-1,America TV HD
+http://200.119.222.198:25470/play/a015/index.m3u8
 #EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd (1080p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:-1 group-id="Latina (1080p)" group-title="Nacional",Latina (1080p)
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
-#EXTINF:-1 group-id="AMERICA TELEVISION PE" group-title="Nacional",AMERICA TELEVISION PE
-http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:-1 group-id="Panamericana TV" group-title="Nacional",Panamericana TV
 http://204.157.255.27:20001/play/a03r/index.m3u8
 #EXTINF:-1 group-id="CNN Chile HD" group-title="Nacional",CNN Chile HD

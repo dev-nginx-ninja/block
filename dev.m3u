@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-id="Latina (1080p)" group-title="Nacional",Latina (1080p)
+#EXTINF:-1 group-title="Nacional",Latina (1080p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-#EXTINF:-1,America TV 191.
+#EXTINF:-1 group-title="Nacional",America TV 191.
 http://191.97.58.41:8001/play/a005
-#EXTINF:-1 group-id="AtvHd (1080p)" group-title="Premium",AtvHd
+#EXTINF:-1 group-title="Nacional", AtvHd
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:-1 group-id="Panamericana TV" group-title="Nacional",Panamericana TV
+#EXTINF:-1 group-title="Nacional",Panamericana TV
 http://204.157.255.27:20001/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Nacional", Willax
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvh-MTK5AZGTHk6tn6nN-IVOtMXFrgV_CAbUVktPpQ2A)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 group-title="Canales 181.78",A&E HD
 http://181.78.20.47:9000/play/a06j
 #EXTINF:-1 group-title="Canales 181.78",ATRES SERIES HD

@@ -5,6 +5,9 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 http://191.97.58.41:8001/play/a005
 #EXTINF:-1 group-title="Nacional", AtvHd
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+#EXTINF:-1 group-title="Nacional", Atv+
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/_gmt/stream1_37166.ts
 #EXTINF:-1 group-title="Nacional",Panamericana TV
 http://204.157.255.27:20001/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Nacional", Willax

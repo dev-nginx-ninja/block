@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Hustler->Catelsa
+http://143.255.35.223:8000/play/a011
+#EXTINF:-1,Venus->Catelsa
+http://143.255.35.223:8000/play/a01e
+#EXTINF:-1,Playboy HD->Catelsa
+http://143.255.35.223:8000/play/a01f
 #EXTINF:-1,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
 #EXTINF:-1,AMC

@@ -1,138 +1,64 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANALES VARIADOS",ATV HD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",LATINA TV HD
-https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b131111452687065bef98c00406&ndvc=0&sid=ba5t1l1xb417366927965bef99295ad1
-#EXTINF:-1 group-title="CANALES VARIADOS",TV PERU HD
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TV PERU NOTICIAS HD
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",AE Mundo
-http://181.78.4.186:8000/play/a0f1/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",AXN
-http://181.78.4.186:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Animal Planet
-http://181.78.4.186:8000/play/a0es/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",BabyFirst
-http://181.78.4.186:8000/play/a0e2/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",CNN Espanol
-http://181.78.4.186:8000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Cartoon Network
-http://181.78.4.186:8000/play/a0dv/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Cinecanal
-http://181.78.4.186:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Cinemax
-http://181.78.4.186:8000/play/a0h8/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",CINE PREMIUM
-http://181.78.64.71:16123/play/ch49
-#EXTINF:-1 group-title="CANALES VARIADOS",City TV
-http://181.78.4.186:8000/play/a0gk/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Channel
-http://181.78.4.186:8000/play/a0er/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Discovery ID
-http://181.78.4.186:8000/play/a0hv/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Kids
-http://181.78.4.186:8000/play/a0e5/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Turbo
-http://181.78.4.186:8000/play/a0hl/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Disney Channel
-http://181.78.4.186:8000/play/a0eq/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Disney Jr
-http://181.78.4.186:8000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",E Entertainment
-http://181.78.4.186:8000/play/a0eu/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2 Latin
-http://181.78.4.186:8000/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 3
-http://181.78.4.186:8000/play/a0hn/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN CO
-http://181.78.4.186:8000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",FX
-http://181.78.4.186:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 2
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 3
-http://181.78.4.186:8000/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",GOLDEN
+#EXTINF:-1 group-title="Canales Latinos",Latina
+http://181.78.27.128:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",AmericaTV
+http://181.78.27.128:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Panamericana TV
+http://181.78.27.128:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Cinecanal
+http://181.78.27.128:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Cinemax
+http://181.78.27.128:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Golden 1
+http://181.78.23.26:45000/play/a04c
+#EXTINF:-1 group-title="Canales Latinos",Golden 2
 http://181.78.64.71:16123/play/ch46
-#EXTINF:-1 group-title="CANALES VARIADOS",GOLDEN EDGE
+#EXTINF:-1 group-title="Canales Latinos",Golden Edge
 http://181.78.64.71:16123/play/ch47
-#EXTINF:-1 group-title="CANALES VARIADOS",HBO
-http://181.78.4.186:8000/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",HBO 2
-http://181.78.4.186:8000/play/a0ee/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",HBO Family
-http://181.78.4.186:8000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",HBO Plus
-http://181.78.4.186:8000/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",HBO XTREME SD
-http://181.78.4.186:8000/play/a0eg/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",History Channel
-http://181.78.4.186:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",MTV
-http://181.78.4.186:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Nat Geo
-http://181.78.4.186:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Nick Jr
-http://181.78.4.186:8000/play/a0hk/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Nickelodeon
-http://181.78.4.186:8000/play/a0dk/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",RCN Novelas
-http://181.78.4.186:8000/play/a0fj/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",STAR CHANNEL
-http://181.78.4.186:8000/play/a0dt/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Senal Colombia
-http://181.78.4.186:8000/play/a0gb/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Sony
-http://181.78.4.186:8000/play/a0h9/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Space
-http://181.78.4.186:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Studio Universal
-http://181.78.4.186:8000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",SyFy
-http://181.78.4.186:8000/play/a0e4/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TBS
-http://181.78.4.186:8000/play/a0fn/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TCM
-http://181.78.4.186:8000/play/a0du/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TLC
-http://181.78.4.186:8000/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TNT
-http://181.78.4.186:8000/play/a0dw/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TRO
-http://181.78.4.186:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",TVE
-http://181.78.4.186:8000/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Teleantioquia
-http://181.78.4.186:8000/play/a0hd/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Telecafe
-http://181.78.4.186:8000/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Telecaribe
-http://181.78.4.186:8000/play/a0ho/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Teleislas
-http://181.78.4.186:8000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Telemundo
-http://181.78.4.186:8000/play/a0fi/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Telepacifico
-http://181.78.4.186:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Trece
-http://181.78.4.186:8000/play/a0hr/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Universal
-http://181.78.4.186:8000/play/a0do/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Universal Cinema SD
-http://181.78.4.186:8000/play/a0en/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Universal Comedy SD
-http://181.78.4.186:8000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Universal Premiere SD
-http://181.78.4.186:8000/play/a0em/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Warner
-http://181.78.4.186:8000/play/a0et/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Win
-http://181.78.4.186:8000/play/a0he/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Win Sports+ HD
-http://181.78.4.186:8000/play/a0qc/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO
+http://181.78.27.128:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO 2
+http://181.78.27.128:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO Family
+http://181.78.27.128:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO Plus
+http://181.78.27.128:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO XTREME SD
+http://181.78.27.128:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",STAR CHANNEL
+http://181.78.27.128:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Sin Limites
+http://181.78.27.128:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Sony
+http://181.78.27.128:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Space
+http://181.78.27.128:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Studio Universal
+http://181.78.27.128:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Universal
+http://181.78.27.128:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Universal Cinema SD
+http://181.78.27.128:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Universal Comedy SD
+http://181.78.27.128:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Universal Premiere SD
+http://181.78.27.128:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Warner
+http://181.78.27.128:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",IPTV|DE PELICULA
+http://181.78.23.26:45000/play/a041
+#EXTINF:-1 group-title="Canales Latinos",HBO
+http://181.78.23.26:45000/play/a02x
+#EXTINF:-1 group-title="Canales Latinos",ESPN
+http://181.78.23.26:45000/play/a01i
+#EXTINF:-1 group-title="Canales Latinos",ESPN 2
+http://181.78.23.26:45000/play/a00m
+#EXTINF:-1 group-title="Canales Latinos",ESPN 2 Latin
+http://181.78.23.26:45000/play/a01h
+#EXTINF:-1 group-title="Canales Latinos",ESPN 3
+http://181.78.23.26:45000/play/a037
+#EXTINF:-1 group-title="Canales Latinos",ESPN 4
+http://181.78.23.26:45000/play/a025
 #EXTINF:-1 group-title="CANAL +18",Adult Swim
 http://200.125.170.120:8000/play/a0ct
 #EXTINF:-1 group-title="CANAL +18",Playboy

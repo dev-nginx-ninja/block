@@ -59,8 +59,36 @@ http://181.78.23.26:45000/play/a01h
 http://181.78.23.26:45000/play/a037
 #EXTINF:-1 group-title="Canales Latinos",ESPN 4
 http://181.78.23.26:45000/play/a025
-#EXTINF:-1 group-title="CANAL +18",Adult Swim
-http://200.125.170.120:8000/play/a0ct
+#EXTINF:-1 group-title="Canales Latinos",GOLPERU HD
+http://190.61.44.34:1010/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",GolTV HD
+http://190.61.44.34:1010/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Golden Edge
+http://190.61.44.34:1010/play/a084/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Golden Plus HD
+http://190.61.44.34:1010/play/a055/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO 2 HD
+http://190.61.44.34:1010/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO Family HD
+http://190.61.44.34:1010/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO HD
+http://190.61.44.34:1010/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO POP HD
+http://190.61.44.34:1010/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",HBO XTREME HD
+http://190.61.44.34:1010/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Playboy HD
+http://190.61.44.34:1010/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Sextreme
+http://190.61.44.34:1010/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Venus
+http://190.61.44.34:1010/play/a07e/index.m3u8
+#EXTINF:-1 group-title="CANAL +18",Playboy HD
+http://190.61.44.34:1010/play/a04e/index.m3u8
+#EXTINF:-1 group-title="CANAL +18",Sextreme
+http://190.61.44.34:1010/play/a07f/index.m3u8
+#EXTINF:-1 group-title="CANAL +18",Venus
+http://190.61.44.34:1010/play/a07e/index.m3u8
 #EXTINF:-1 group-title="CANAL +18",Playboy
 http://200.125.170.120:8000/play/a02c
 #EXTINF:-1 group-title="CANAL +18",VENUS

@@ -5,6 +5,8 @@ http://181.78.27.128:8000/play/a047/index.m3u8
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Panamericana TV
 http://181.78.27.128:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",ATV
+http://38.56.118.88:4000/play/a03q
 #EXTINF:-1 group-title="Canales Latinos",Cinecanal
 http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Cinemax
@@ -83,123 +85,39 @@ http://190.61.44.34:1010/play/a04e/index.m3u8
 http://190.61.44.34:1010/play/a07f/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Venus
 http://190.61.44.34:1010/play/a07e/index.m3u8
-#EXTINF:-1 group-title="CANAL +18",Playboy HD
+#EXTINF:-1 group-title="CANAL +18",Playboy HD - v1
 http://190.61.44.34:1010/play/a04e/index.m3u8
-#EXTINF:-1 group-title="CANAL +18",Sextreme
+#EXTINF:-1 group-title="CANAL +18",Sextreme - v1
 http://190.61.44.34:1010/play/a07f/index.m3u8
-#EXTINF:-1 group-title="CANAL +18",Venus
+#EXTINF:-1 group-title="CANAL +18",Venus - v1
 http://190.61.44.34:1010/play/a07e/index.m3u8
-#EXTINF:-1 group-title="CANAL +18",Playboy
+#EXTINF:-1 group-title="CANAL +18",Playboy - v1
 http://200.125.170.120:8000/play/a02c
-#EXTINF:-1 group-title="CANAL +18",VENUS
+#EXTINF:-1 group-title="CANAL +18",VENUS - v2
 http://200.125.170.120:8000/play/a04e
-#EXTINF:-1 group-title="CANAL +18",Hustler->Catelsa
+#EXTINF:-1 group-title="CANAL +18",Hustler - v1
 http://143.255.35.223:8000/play/a011
-#EXTINF:-1 group-title="CANAL +18",Venus->Catelsa
+#EXTINF:-1 group-title="CANAL +18",Venus - v3
 http://143.255.35.223:8000/play/a01e
-#EXTINF:-1 group-title="CANAL +18",Playboy HD->Catelsa
+#EXTINF:-1 group-title="CANAL +18",Playboy HD - v2
 http://143.255.35.223:8000/play/a01f
-#EXTINF:-1 tvg-id="" tvg-name="XXX: 18 YEARS OLD" tvg-logo="" group-title="CANAL +18",XXX: 18 YEARS OLD
-http://likea8bitboss.xyz:80/27378097/97629514/761104
-#EXTINF:-1 tvg-id="" tvg-name="XXX: 2 CHICKS SAME TIME" tvg-logo="" group-title="CANAL +18",XXX: 2 CHICKS SAME TIME
-http://likea8bitboss.xyz:80/27378097/97629514/761105
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT AUDITIONS" tvg-logo="" group-title="CANAL +18",XXX: ADULT AUDITIONS
-http://likea8bitboss.xyz:80/27378097/97629514/761106
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AMATEUR ALLURE" tvg-logo="" group-title="CANAL +18",XXX: AMATEUR ALLURE
-http://likea8bitboss.xyz:80/27378097/97629514/761107
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL TEEN ANGELS" tvg-logo="" group-title="CANAL +18",XXX: ANAL TEEN ANGELS
-http://likea8bitboss.xyz:80/27378097/97629514/761108
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASSHOLE FEVER" tvg-logo="" group-title="CANAL +18",XXX: ASSHOLE FEVER
-http://likea8bitboss.xyz:80/27378097/97629514/761109
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES" tvg-logo="" group-title="CANAL +18",XXX: BABES
-http://likea8bitboss.xyz:80/27378097/97629514/761110
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES 2" tvg-logo="" group-title="CANAL +18",XXX: BABES 2
-http://likea8bitboss.xyz:80/27378097/97629514/761111
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BACKROOM CASTING COUCH" tvg-logo="" group-title="CANAL +18",XXX: BACKROOM CASTING COUCH
-http://likea8bitboss.xyz:80/27378097/97629514/761112
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG BROS" tvg-logo="" group-title="CANAL +18",XXX: BANG BROS
-http://likea8bitboss.xyz:80/27378097/97629514/761114
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG BUS" tvg-logo="" group-title="CANAL +18",XXX: BANG BUS
-http://likea8bitboss.xyz:80/27378097/97629514/761115
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG BUS 2" tvg-logo="" group-title="CANAL +18",XXX: BANG BUS 2
-http://likea8bitboss.xyz:80/27378097/97629514/761116
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG CASTING" tvg-logo="" group-title="CANAL +18",XXX: BANG CASTING
-http://likea8bitboss.xyz:80/27378097/97629514/761117
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BEAUTY ANGELS" tvg-logo="" group-title="CANAL +18",XXX: BEAUTY ANGELS
-http://likea8bitboss.xyz:80/27378097/97629514/761118
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BFFS" tvg-logo="" group-title="CANAL +18",XXX: BFFS
-http://likea8bitboss.xyz:80/27378097/97629514/761119
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BITCH CONFESSIONS" tvg-logo="" group-title="CANAL +18",XXX: BITCH CONFESSIONS
-http://likea8bitboss.xyz:80/27378097/97629514/761120
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK IS BETTER" tvg-logo="" group-title="CANAL +18",XXX: BLACK IS BETTER
-http://likea8bitboss.xyz:80/27378097/97629514/761121
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="" group-title="CANAL +18",XXX: BLACKED
-http://likea8bitboss.xyz:80/27378097/97629514/761122
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED 2" tvg-logo="" group-title="CANAL +18",XXX: BLACKED 2
-http://likea8bitboss.xyz:80/27378097/97629514/761123
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKS ON BLONDES" tvg-logo="" group-title="CANAL +18",XXX: BLACKS ON BLONDES
-http://likea8bitboss.xyz:80/27378097/97629514/761124
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKS ON COUGARS" tvg-logo="" group-title="CANAL +18",XXX: BLACKS ON COUGARS
-http://likea8bitboss.xyz:80/27378097/97629514/761125
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRATTY SIS" tvg-logo="" group-title="CANAL +18",XXX: BRATTY SIS
-http://likea8bitboss.xyz:80/27378097/97629514/761126
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BROWN BUNNIES" tvg-logo="" group-title="CANAL +18",XXX: BROWN BUNNIES
-http://likea8bitboss.xyz:80/27378097/97629514/761127
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BURNING ANGEL" tvg-logo="" group-title="CANAL +18",XXX: BURNING ANGEL
-http://likea8bitboss.xyz:80/27378097/97629514/761128
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BURNING ANGEL 2" tvg-logo="" group-title="CANAL +18",XXX: BURNING ANGEL 2
-http://likea8bitboss.xyz:80/27378097/97629514/761129
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CASH FOR SEX TAPE" tvg-logo="" group-title="CANAL +18",XXX: CASH FOR SEX TAPE
-http://likea8bitboss.xyz:80/27378097/97629514/761130
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CHERRY PIMPS" tvg-logo="" group-title="CANAL +18",XXX: CHERRY PIMPS
-http://likea8bitboss.xyz:80/27378097/97629514/761131
-#EXTINF:-1 tvg-id="" tvg-name="XXX: COLOMBIAN FUCK FEST" tvg-logo="" group-title="CANAL +18",XXX: COLOMBIAN FUCK FEST
-http://likea8bitboss.xyz:80/27378097/97629514/761132
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CRAZY ASIAN GF" tvg-logo="" group-title="CANAL +18",XXX: CRAZY ASIAN GF
-http://likea8bitboss.xyz:80/27378097/97629514/761133
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CRAZY COLLEGE GF" tvg-logo="" group-title="CANAL +18",XXX: CRAZY COLLEGE GF
-http://likea8bitboss.xyz:80/27378097/97629514/761134
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CREAMPIE IN ASIA" tvg-logo="" group-title="CANAL +18",XXX: CREAMPIE IN ASIA
-http://likea8bitboss.xyz:80/27378097/97629514/761135
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CZECH AMATEURS" tvg-logo="" group-title="CANAL +18",XXX: CZECH AMATEURS
-http://likea8bitboss.xyz:80/27378097/97629514/761136
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DATESLAM" tvg-logo="" group-title="CANAL +18",XXX: DATESLAM
-http://likea8bitboss.xyz:80/27378097/97629514/761137
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DAUGHTER SWAP" tvg-logo="" group-title="CANAL +18",XXX: DAUGHTER SWAP
-http://likea8bitboss.xyz:80/27378097/97629514/761138
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DESPERATE AMATEURS" tvg-logo="" group-title="CANAL +18",XXX: DESPERATE AMATEURS
-http://likea8bitboss.xyz:80/27378097/97629514/761139
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPLOITED COLLEGE GIRLS" tvg-logo="" group-title="CANAL +18",XXX: EXPLOITED COLLEGE GIRLS
-http://likea8bitboss.xyz:80/27378097/97629514/761140
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPLOITED COLLEGE GIRLS 2" tvg-logo="" group-title="CANAL +18",XXX: EXPLOITED COLLEGE GIRLS 2
-http://likea8bitboss.xyz:80/27378097/97629514/761141
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FUCK STUDIES" tvg-logo="" group-title="CANAL +18",XXX: FUCK STUDIES
-http://likea8bitboss.xyz:80/27378097/97629514/761154
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GANG BANG CREAMPIE" tvg-logo="" group-title="CANAL +18",XXX: GANG BANG CREAMPIE
-http://likea8bitboss.xyz:80/27378097/97629514/761155
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GF REVENGE" tvg-logo="" group-title="CANAL +18",XXX: GF REVENGE
-http://likea8bitboss.xyz:80/27378097/97629514/761156
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GF REVENGE 2" tvg-logo="" group-title="CANAL +18",XXX: GF REVENGE 2
-http://likea8bitboss.xyz:80/27378097/97629514/761157
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GIRLS DO PORN" tvg-logo="" group-title="CANAL +18",XXX: GIRLS DO PORN
-http://likea8bitboss.xyz:80/27378097/97629514/761158
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GIRLS DO PORN 2" tvg-logo="" group-title="CANAL +18",XXX: GIRLS DO PORN 2
-http://likea8bitboss.xyz:80/27378097/97629514/761159
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GIRLS GONE PINK" tvg-logo="" group-title="CANAL +18",XXX: GIRLS GONE PINK
-http://likea8bitboss.xyz:80/27378097/97629514/761160
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GIRLS OUT WEST" tvg-logo="" group-title="CANAL +18",XXX: GIRLS OUT WEST
-http://likea8bitboss.xyz:80/27378097/97629514/761161
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GIRLS OUT WEST 2" tvg-logo="" group-title="CANAL +18",XXX: GIRLS OUT WEST 2
-http://likea8bitboss.xyz:80/27378097/97629514/761162
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOUSE OF TABOO" tvg-logo="" group-title="CANAL +18",XXX: HOUSE OF TABOO
-http://likea8bitboss.xyz:80/27378097/97629514/761163
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOUSEWIFE 1 ON 1" tvg-logo="" group-title="CANAL +18",XXX: HOUSEWIFE 1 ON 1
-http://likea8bitboss.xyz:80/27378097/97629514/761164
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER" tvg-logo="" group-title="CANAL +18",XXX: HUSTLER
-http://likea8bitboss.xyz:80/27378097/97629514/761165
-#EXTINF:-1 tvg-id="" tvg-name="XXX: I FUCKED HER FINALLY" tvg-logo="" group-title="CANAL +18",XXX: I FUCKED HER FINALLY
-http://likea8bitboss.xyz:80/27378097/97629514/761166
-#EXTINF:-1 tvg-id="" tvg-name="XXX: INNOCENT HIGH" tvg-logo="" group-title="CANAL +18",XXX: INNOCENT HIGH
-http://likea8bitboss.xyz:80/27378097/97629514/761167
-#EXTINF:-1 tvg-id="" tvg-name="XXX: INNOCENT HIGH 2" tvg-logo="" group-title="CANAL +18",XXX: INNOCENT HIGH 2
-http://likea8bitboss.xyz:80/27378097/97629514/761168
+#EXTINF:-1 group-title="CANAL MEX",MX | HISTORIAS DE ULTRATUMBA 
+http://hardcoremedia.xyz:80/srcehvum/0329435042/5279
+#EXTINF:-1 group-title="CANAL ES",Taquilla 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136094.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136091.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136090.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136089.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136088.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136087.ts
+#EXTINF:-1 group-title="CANAL ES",Taquilla 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136085.ts
+#EXTINF:-1 group-title="CANAL ES",Mov Estrenos FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135924.ts
+#EXTINF:-1 group-title="CANAL ES",Mov Accion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135954.ts

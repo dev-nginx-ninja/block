@@ -23,6 +23,8 @@ http://181.78.64.71:16123/play/ch46
 http://181.78.64.71:16123/play/ch47
 #EXTINF:-1 group-title="Canales Latinos",Space HD
 http://38.56.118.88:4000/play/a009
+#EXTINF:-1 group-title="Canales Latinos",MX | HISTORIAS DE ULTRATUMBA 
+http://hardcoremedia.xyz:80/srcehvum/0329435042/5279
 #EXTINF:-1 group-title="Canales Latinos",HBO
 http://181.78.27.128:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",HBO 2
@@ -107,23 +109,3 @@ http://143.255.35.223:8000/play/a011
 http://143.255.35.223:8000/play/a01e
 #EXTINF:-1 group-title="CANAL +18",Playboy HD - v2
 http://143.255.35.223:8000/play/a01f
-#EXTINF:-1 group-title="CANAL MEX",MX | HISTORIAS DE ULTRATUMBA 
-http://hardcoremedia.xyz:80/srcehvum/0329435042/5279
-#EXTINF:-1 group-title="CANAL ES",Taquilla 10 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136094.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 7 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136091.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 6 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136090.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 5 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136089.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 4 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136088.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136087.ts
-#EXTINF:-1 group-title="CANAL ES",Taquilla 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136085.ts
-#EXTINF:-1 group-title="CANAL ES",Mov Estrenos FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135924.ts
-#EXTINF:-1 group-title="CANAL ES",Mov Accion HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135954.ts

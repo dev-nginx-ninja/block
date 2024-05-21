@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canales Latinos",Latina
 http://181.78.27.128:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Latina HD
+http://38.56.118.88:4000/play/a02v
 #EXTINF:-1 group-title="Canales Latinos",AmericaTV
 http://181.78.27.128:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",AmericaTV HD
+http://38.252.218.10:4000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Panamericana TV
 http://181.78.27.128:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",ATV
@@ -17,6 +21,8 @@ http://181.78.23.26:45000/play/a04c
 http://181.78.64.71:16123/play/ch46
 #EXTINF:-1 group-title="Canales Latinos",Golden Edge
 http://181.78.64.71:16123/play/ch47
+#EXTINF:-1 group-title="Canales Latinos",Space HD
+http://38.56.118.88:4000/play/a009
 #EXTINF:-1 group-title="Canales Latinos",HBO
 http://181.78.27.128:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",HBO 2

@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="Canales Latinos",Latina
 http://181.78.27.128:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Latina HD
-http://38.56.118.88:4000/play/a02v
+http://38.56.118.88:4000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",AmericaTV
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",AmericaTV HD
-http://38.56.118.88:4000/play/a02u
+http://38.56.118.88:4000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Panamericana TV
 http://181.78.27.128:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",ATV
@@ -77,6 +77,10 @@ http://181.78.23.26:45000/play/a025
 http://190.61.44.34:1010/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",GolTV HD
 http://190.61.44.34:1010/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos", Movistar Deportes HD
+http://38.56.118.88:4000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Movistar Plus
+http://38.56.118.88:4000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Golden Edge
 http://190.61.44.34:1010/play/a084/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Golden Plus HD

@@ -1,147 +1,147 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
+#EXTINF:-1 group-title="Canales HD",A&E HD
 http://8.242.175.221:8000/play/a03m/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="Canales HD",AMC HD
 http://8.242.175.221:8000/play/a01i/index.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1 group-title="Canales HD",ATV
 http://8.242.175.221:8000/play/a03h/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 group-title="Canales HD",AXN HD
 http://8.242.175.221:8000/play/a03p/index.m3u8
-#EXTINF:-1,Adult Swim HD
+#EXTINF:-1 group-title="Canales HD",Adult Swim HD
 http://8.242.175.221:8000/play/a014/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="Canales HD",America TV HD
 http://8.242.175.221:8000/play/a01x/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="Canales HD",Animal Planet HD
 http://8.242.175.221:8000/play/a01r/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:-1 group-title="Canales HD",Baby TV
 http://8.242.175.221:8000/play/a03b/index.m3u8
-#EXTINF:-1,CNN Espaæol
+#EXTINF:-1 group-title="Canales HD",CNN Espaæol
 http://8.242.175.221:8000/play/a03d/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 group-title="Canales HD",Cartoon Network HD
 http://8.242.175.221:8000/play/a01k/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 group-title="Canales HD",Cinecanal HD
 http://8.242.175.221:8000/play/a01h/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="Canales HD",Cinemax HD
 http://8.242.175.221:8000/play/a04g/index.m3u8
-#EXTINF:-1,City TV
+#EXTINF:-1 group-title="Canales HD",City TV
 http://8.242.175.221:8000/play/a03a/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 group-title="Canales HD",Comedy Central HD
 http://8.242.175.221:8000/play/a047/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 group-title="Canales HD",Discovery H&H HD
 http://8.242.175.221:8000/play/a017/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 group-title="Canales HD",Discovery Kids HD
 http://8.242.175.221:8000/play/a016/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 group-title="Canales HD",Discovery Theater HD
 http://8.242.175.221:8000/play/a04j/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 group-title="Canales HD",Discovery World HD
 http://8.242.175.221:8000/play/a01g/index.m3u8
-#EXTINF:-1,Disney HD
+#EXTINF:-1 group-title="Canales HD",Disney HD
 http://8.242.175.221:8000/play/a00x/index.m3u8
-#EXTINF:-1,E! HD
+#EXTINF:-1 group-title="Canales HD",E! HD
 http://8.242.175.221:8000/play/a01u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Canales HD",ESPN 2 HD
 http://8.242.175.221:8000/play/a03s/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Canales HD",ESPN 3 HD
 http://8.242.175.221:8000/play/a00z/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Canales HD",ESPN 4 HD
 http://8.242.175.221:8000/play/a01a/index.m3u8
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1 group-title="Canales HD",ESPN 5HD
 http://8.242.175.221:8000/play/a04e/index.m3u8
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="Canales HD",ESPN 6
 http://8.242.175.221:8000/play/a04k/index.m3u8
-#EXTINF:-1,ESPN 7HD
+#EXTINF:-1 group-title="Canales HD",ESPN 7HD
 http://8.242.175.221:8000/play/a04f/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Canales HD",ESPN HD
 http://8.242.175.221:8000/play/a03x/index.m3u8
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 group-title="Canales HD",El Gourmet HD
 http://8.242.175.221:8000/play/a04i/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
+#EXTINF:-1 group-title="Canales HD",ElCanaldelFutbol HD
 http://8.242.175.221:8000/play/a020/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="Canales HD",FX HD
 http://8.242.175.221:8000/play/a01d/index.m3u8
-#EXTINF:-1,Food Network HD
+#EXTINF:-1 group-title="Canales HD",Food Network HD
 http://8.242.175.221:8000/play/a01w/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
+#EXTINF:-1 group-title="Canales HD",Fox Sports 1 HD
 http://8.242.175.221:8000/play/a02u/index.m3u8
-#EXTINF:-1,Fox Sports 2 HD
+#EXTINF:-1 group-title="Canales HD",Fox Sports 2 HD
 http://8.242.175.221:8000/play/a01b/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
+#EXTINF:-1 group-title="Canales HD",Fox Sports 3 HD
 http://8.242.175.221:8000/play/a010/index.m3u8
-#EXTINF:-1,GLOBAL
+#EXTINF:-1 group-title="Canales HD",GLOBAL
 http://8.242.175.221:8000/play/a03i/index.m3u8
-#EXTINF:-1,GolTV HD
+#EXTINF:-1 group-title="Canales HD",GolTV HD
 http://8.242.175.221:8000/play/a01v/index.m3u8
-#EXTINF:-1,Golden HD
+#EXTINF:-1 group-title="Canales HD",Golden HD
 http://8.242.175.221:8000/play/a01s/index.m3u8
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="Canales HD",HBO 2 HD
 http://8.242.175.221:8000/play/a01p/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 group-title="Canales HD",HBO Family HD
 http://8.242.175.221:8000/play/a02w/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Canales HD",HBO HD
 http://8.242.175.221:8000/play/a01j/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1 group-title="Canales HD",HBO XTREME HD
 http://8.242.175.221:8000/play/a02x/index.m3u8
-#EXTINF:-1,History 2 HD
+#EXTINF:-1 group-title="Canales HD",History 2 HD
 http://8.242.175.221:8000/play/a02v/index.m3u8
-#EXTINF:-1,History Channel HD
+#EXTINF:-1 group-title="Canales HD",History Channel HD
 http://8.242.175.221:8000/play/a03l/index.m3u8
-#EXTINF:-1,ID HD
+#EXTINF:-1 group-title="Canales HD",ID HD
 http://8.242.175.221:8000/play/a013/index.m3u8
-#EXTINF:-1,Kanal D Drama
+#EXTINF:-1 group-title="Canales HD",Kanal D Drama
 http://8.242.175.221:8000/play/a03j/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 group-title="Canales HD",Las Estrellas HD
 http://8.242.175.221:8000/play/a02t/index.m3u8
-#EXTINF:-1,Latina HD
+#EXTINF:-1 group-title="Canales HD",Latina HD
 http://8.242.175.221:8000/play/a01y/index.m3u8
-#EXTINF:-1,Locomotion
+#EXTINF:-1 group-title="Canales HD",Locomotion
 http://8.242.175.221:8000/play/a048/index.m3u8
-#EXTINF:-1,Love Nature HD
+#EXTINF:-1 group-title="Canales HD",Love Nature HD
 http://8.242.175.221:8000/play/a044/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 group-title="Canales HD",Nat Geo HD
 http://8.242.175.221:8000/play/a01f/index.m3u8
-#EXTINF:-1,Nick HD
+#EXTINF:-1 group-title="Canales HD",Nick HD
 http://8.242.175.221:8000/play/a03w/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="Canales HD",Nick Jr
 http://8.242.175.221:8000/play/a04h/index.m3u8
-#EXTINF:-1,Panamericana
+#EXTINF:-1 group-title="Canales HD",Panamericana
 http://8.242.175.221:8000/play/a03f/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 group-title="Canales HD",Paramount HD
 http://8.242.175.221:8000/play/a01l/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 group-title="Canales HD",Pasiones HD
 http://8.242.175.221:8000/play/a00w/index.m3u8
-#EXTINF:-1,Playboy HD
+#EXTINF:-1 group-title="Canales HD",Playboy HD
 http://8.242.175.221:8000/play/a042/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="Canales HD",STAR CHANNEL HD
 http://8.242.175.221:8000/play/a03v/index.m3u8
-#EXTINF:-1,Sony HD
+#EXTINF:-1 group-title="Canales HD",Sony HD
 http://8.242.175.221:8000/play/a03n/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 group-title="Canales HD",Space HD
 http://8.242.175.221:8000/play/a03q/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 group-title="Canales HD",Studio Universal HD
 http://8.242.175.221:8000/play/a01m/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="Canales HD",TNT HD
 http://8.242.175.221:8000/play/a00y/index.m3u8
-#EXTINF:-1,TNT Novelas HD
+#EXTINF:-1 group-title="Canales HD",TNT Novelas HD
 http://8.242.175.221:8000/play/a02o/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
+#EXTINF:-1 group-title="Canales HD",TNT SPORTS HD
 http://8.242.175.221:8000/play/a03r/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 group-title="Canales HD",TNT Series HD
 http://8.242.175.221:8000/play/a01c/index.m3u8
-#EXTINF:-1,TV+ HD
+#EXTINF:-1 group-title="Canales HD",TV+ HD
 http://8.242.175.221:8000/play/a040/index.m3u8
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1 group-title="Canales HD",Teleantioquia
 http://8.242.175.221:8000/play/a039/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="Canales HD",Telemundo
 http://8.242.175.221:8000/play/a03k/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 group-title="Canales HD",Tooncast
 http://8.242.175.221:8000/play/a03c/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 group-title="Canales HD",TyC Sports HD
 http://8.242.175.221:8000/play/a01z/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Canales HD",UNIVERSAL CHANNEL HD
 http://8.242.175.221:8000/play/a019/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 group-title="Canales HD",Warner Channel HD
 http://8.242.175.221:8000/play/a03o/index.m3u8
-#EXTINF:-1,Win Sports HD
+#EXTINF:-1 group-title="Canales HD",Win Sports HD
 http://8.242.175.221:8000/play/a03t/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="Canales HD",Win Sports+ HD
 http://8.242.175.221:8000/play/a01q/index.m3u8

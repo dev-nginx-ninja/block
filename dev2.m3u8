@@ -15,6 +15,8 @@ http://181.78.27.128:8000/play/a049/index.m3u8
 https://list.iptvcat.com/my_list/s/a8ace30ff8689ca97bc866611b61e030.m3u8
 #EXTINF:-1 group-title="Canales Latinos",	Peru Visual TV
 https://list.iptvcat.com/my_list/s/81b5c4ed2e78b7d403fd93df4f031d15.m3u8
+#EXTINF:-1 group-title="Canales Latinos",	Perú Channel (720p)
+https://list.iptvcat.com/my_list/s/9544c974ea6f9825b849d616d731fbb3.m3u8
 #EXTINF:-1 group-title="Canales Latinos",GLOBAL
 http://38.56.118.88:4000/play/a03r
 #EXTINF:-1 group-title="Canales Latinos",Exitosa

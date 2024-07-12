@@ -187,10 +187,6 @@ http://45.232.148.101:8000/play/a05s/index.m3u8
 http://45.232.148.101:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="CANALES HD",Warner Channel HD
 http://45.232.148.101:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="CANALES HD",The Evil Dead Collection
-http://my.streamerstv.com:25461/Bob123/Bob123/3028
-#EXTINF:-1 group-title="CANALES HD",EVIL Season 1 Collection
-http://my.streamerstv.com:25461/Bob123/Bob123/3396
 #EXTINF:-1 group-title="CANALES HD",ESPN 2 HD
 http://45.232.148.101:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="CANALES HD",ESPN 2 HD

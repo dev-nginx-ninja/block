@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canales Latinos",Planeta de los simios 2024
+https://vd269.mycdn.me/expires/1721074372022/clientType/0/srcIp/45.189.116.120/type/2/mid/7715629894246/id/6642991565414/ms/185.226.52.19/zs/43/srcAg/CHROME/urls/45.136.21.68/oq/0/pr/10/ct/29/sig/RDePW0a1uQ4/ondemand/dash4_6642991565414.COaUhPvG4AFA5tLx3vIQUArICnC3FmQreQ.mpd
 #EXTINF:-1 group-title="Canales Latinos",Latina
 http://181.78.27.128:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",Latina HD

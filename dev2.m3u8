@@ -122,6 +122,8 @@ http://190.61.44.34:1010/play/a00a/index.m3u8
 http://190.61.44.34:1010/play/a05x/index.m3u8
 #EXTINF:-1 group-title="Canales Latinos",CANAL+ FILM
 http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 group-title="CANALES HD", LATINA
+https://jireh-4-hls-video-pe-isp.dps.live/latina/latina.smil/latina/livestream2/chunks.m3u8?bpkio_serviceid=b427426b8acd2c2ee88847cc933ab21b&bpkio_sessionid=10b1d8d252-2d5c8f86-f578-4896-8f16-811d0ab02d81&category=all&ch=latina&dpssid=b41823011429669c73c9d6d2f&mm_sp&ndvc=0&oservice=567ffde3fa319fadf3419efda25619456231dfeabdai&sid=ba5t1l1xb4100022732669c73cc0af9a
 #EXTINF:-1 group-title="CANALES HD", AMERICA TV1
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="CANALES HD", AMERICA TV2
@@ -130,6 +132,8 @@ http://200.60.124.19:29000/play/a008
 http://200.60.124.19:29000/play/a04r
 #EXTINF:-1 group-title="CANALES HD", PANAMERICANA TV
 http://181.78.27.128:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="CANALES HD",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="CANALES HD",SUPER CANAL DE YURIMAGUAS
 https://live.obslivestream.com/supercanal/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="CANALES HD",A&E HD

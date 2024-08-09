@@ -1,4 +1,118 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canales HD v2",Latina HD
+http://186.148.195.206:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",America TV HD
+http://190.0.241.181:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Panamericana
+http://186.148.195.206:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Animal Planet HD
+http://190.0.241.181:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",A&E
+http://190.0.241.181:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",ACM HD
+http://190.0.241.181:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",ANIMAL PLANET NUEVO
+http://190.0.241.181:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",AXN HD
+http://190.0.241.181:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",AXN NUEVO
+http://190.0.241.181:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",GOLDENNUEVO
+http://190.0.241.181:8000/play/GOLDENNUEVO/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Golden HD
+http://190.0.241.181:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",070 Golden Premiere HD
+http://186.189.222.205:1993/play/070/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",PARAMOUNT NUEVO
+http://190.0.241.181:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Paramount HD
+http://190.0.241.181:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",SONY NUEVO
+http://190.0.241.181:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",STAR CHANNEL NUEVO
+http://190.0.241.181:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",STUDIO UNIVERSAL NUEVO
+http://190.0.241.181:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Sony HD
+http://190.0.241.181:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Space HD
+http://190.0.241.181:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",060 Multipremier
+http://186.189.222.205:1993/play/060/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Star Channel HD
+http://190.0.241.181:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Studio Universal HD
+http://190.0.241.181:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",TNT HD
+http://190.0.241.181:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",TNT SERIES NUEVO
+http://190.0.241.181:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",TNT Series HD
+http://190.0.241.181:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",UNIVERSALNUEVO
+http://190.0.241.181:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Universal Channel HD
+http://190.0.241.181:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",WARNER NUEVO
+http://190.0.241.181:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Warner Channel HD
+http://190.0.241.181:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",CINEFAMILIAR
+http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",CINEHISPANO
+http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",CINEPREMIUM
+http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",CNN Espanol
+http://190.0.241.181:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",COMEDY CENTRAL NUEVO
+http://190.0.241.181:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Cartoon Network HD
+http://190.0.241.181:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Cinecanal HD
+http://190.0.241.181:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Cinemax HD
+http://190.0.241.181:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",City TV
+http://190.0.241.181:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Comedy Central HD
+http://190.0.241.181:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",De Pelicula
+http://190.0.241.181:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",025 Exa TV
+http://186.189.222.205:1993/play/025/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",029 Multicinema
+http://186.189.222.205:1993/play/029/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO 2 HD
+http://186.167.80.82:8126/play/a0de/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO Family HD
+http://186.167.80.82:8126/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO HD
+http://186.167.80.82:8126/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO POP HD
+http://186.167.80.82:8126/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO Plus
+http://186.167.80.82:8126/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO Signature
+http://186.167.80.82:8126/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",HBO XTREME HD
+http://186.167.80.82:8126/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",095 VENUS
+http://186.189.222.205:1993/play/095/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Playboy HD
+http://186.148.195.206:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Sextreme
+http://186.148.195.206:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Canales HD v2",Pink Erotic 1
+http://185.244.240.33:8000/play/a00u
+#EXTINF:-1 group-title="Canales HD v2",Pink Erotic 2
+http://185.244.240.33:8000/play/a00v
+#EXTINF:-1 group-title="Canales HD v2",Pink Erotic 3
+http://185.244.240.33:8000/play/a00w
+#EXTINF:-1 group-title="Canales HD v2",Pink Erotic 4
+http://185.244.240.33:8000/play/a00x
+#EXTINF:-1 group-title="Canales HD v2",Pink Erotic 5
+http://185.244.240.33:8000/play/a00y
 #EXTINF:-1,13 C
 http://186.148.195.206:8000/play/a05z/index.m3u8
 #EXTINF:-1,24 Horas TVN
